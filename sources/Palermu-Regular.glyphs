@@ -115,7 +115,7 @@ value = (
 );
 }
 );
-date = "2022-09-16 10:32:19 +0000";
+date = "2022-09-18 13:31:55 +0000";
 familyName = Palermu;
 featurePrefixes = (
 {
@@ -31225,6 +31225,6 @@ eng
 );
 };
 };
-versionMajor = 2;
+versionMajor = 1;
 versionMinor = 1;
 }
