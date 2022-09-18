@@ -1,5 +1,4 @@
 ![Palermu](https://github.com/SinaFakour/palermu/master/images/palermu4.jpg)
-![League Gothic](https://github.com/theleagueof/league-gothic/raw/master/images/league-gothic-1.png)
 
 Palermu
 =======
