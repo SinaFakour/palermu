@@ -1,3 +1,5 @@
+    Copyright (c) 2022, Sina Fakour <contact@sinafakour.com>
+    
     Copyright (c) 2020, Caleb Maclennan <caleb@alerque>
 
     Copyright (c) 2010-2012, Micah Rich <micah@micahrich.com>,
