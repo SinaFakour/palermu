@@ -1,4 +1,4 @@
-![Palermu](https://github.com/SinaFakour/palermu/images/palermu4.jpg)
+![Palermu](https://github.com/SinaFakour/palermu/blob/master/images/palermu4.jpg)
 
 Palermu
 =======
