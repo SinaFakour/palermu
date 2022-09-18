@@ -2,7 +2,7 @@
 
 Palermu
 =======
-[![Latest Release](https://img.shields.io/github/v/release/SinaFakour/palermu?label=Download%20Release&logo=Github)](https://github.com/theleagueof/league-gothic/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/SinaFakour/palermu?label=Download%20Release&logo=Github)](https://github.com/SinaFakour/palermu/releases/latest)
 [![All Releases](https://img.shields.io/github/downloads/SinaFakour/palermu/total)](https://github.com/SinaFakour/palermu/releases)
 
 The Arabic version is designed by [Sina Fakour](https://www.sinafakour.com/). You can read more about the project [here](https://www.sinafakour.com/palermu/index.html).<br>
