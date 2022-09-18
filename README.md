@@ -3,7 +3,7 @@
 Palermu
 =======
 
-The Arabic version is designed by [Sina Fakour](https://www.sinafakour.com/). You can read more about the project [here](https://github.com/SinaFakour/palermu)
+The Arabic version is designed by [Sina Fakour](https://www.sinafakour.com/). You can read more about the project [here](https://www.sinafakour.com/palermu/index.html)
 Sina Fakour is a visual artist, graphic and type designer based in France. 
 
 The Latin version (League Gothic) is designed and contributed to the Open Source Type Movement by [Caroline Hadilaksono](https://www.hadilaksono.com/), [Micah Rich](https://micahrich.com/), & [Tyler Finck](https://www.tylerfinck.com/). It is a revival of an old classic, Alternate Gothic #1.
